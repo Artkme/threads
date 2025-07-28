@@ -1,0 +1,20 @@
+results for n = 1000
+
+java 6 - Execution time: 3.009 ms
+java 8 - Execution time: 3.056 ms
+java 10 - Execution time: 2.487 ms
+
+Version2 time durations n = 1000
+java 6 - Execution time: 2.654 ms
+java 8 - Execution time: 2.065 ms
+java 10 - Execution time: 1.627 ms
+
+Version3 time durations n = 1000
+java 6 - Execution time: 2.004 ms
+java 8 - Execution time: 2.522 ms
+java 10 - Execution time: 2.129 ms
+
+Version4 time durations n = 1000
+java 6 - Execution time: 1.936 ms
+java 8 - Execution time: 6.576 ms
+java 10 - Execution time: 3.857 ms
